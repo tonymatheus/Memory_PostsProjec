@@ -14,3 +14,5 @@ porém  de uma forma mais  simples.
 - [x] MAterial UI
 - [x] ReactDom
 - [x] Jsx 
+- [x] Redux
+- [x] Redux Thunk
